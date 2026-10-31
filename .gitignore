@@ -1,0 +1,7 @@
+# The dataset's source and licence are not stated in the file; also contains officer contact columns.
+# Do not commit the raw CSV.
+data/*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
