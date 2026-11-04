@@ -29,7 +29,7 @@ Measures the sanction-to-spend pipeline across **1,000 central-scheme fund recor
 
 ## Contents
 
-[Key findings](#key-findings) · [The denominator trap](#the-denominator-trap) · [Where money sits idle](#where-money-sits-idle) · [Spending ahead of delivery](#spending-ahead-of-delivery) · [Can the records be trusted?](#can-the-records-be-trusted) · [Red-Flag Screen](#original-feature-red-flag-screen) · [What explains utilization](#what-explains-utilization) · [Data cleaning](#data-cleaning) · [Limitations](#limitations) · [How to run](#how-to-run) · [Dataset](#dataset)
+[Key findings](#key-findings) · [The denominator trap](#the-denominator-trap) · [Where money sits idle](#where-money-sits-idle) · [Spending ahead of delivery](#spending-ahead-of-delivery) · [Can the records be trusted?](#can-the-records-be-trusted) · [Red-Flag Screen](#original-feature-red-flag-screen) · [What explains utilization](#what-explains-utilization) · [Data cleaning](#data-cleaning) · [Limitations](#limitations) · [Dataset](#dataset)
 
 ---
 
